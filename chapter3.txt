@@ -1,0 +1,8 @@
+Hello! Below are the basic command line commands for git
+
+git status			//to check the status of files that is untracked or tracked
+git add	<file>			//to add files into the staging area
+git commit -m "note"		//moves files from staging area to local repository
+git push -u origin master	//pushes files from local repository to GitHub
+git checkout <file>		//obtains the files from local repository
+git clone <url>			//basically downloads repositories from GitHub
